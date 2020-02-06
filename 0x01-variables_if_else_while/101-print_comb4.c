@@ -18,16 +18,16 @@ int main(void)
 		for (m = n + 1; m <= '9'; m++)
 		{
 			for (l = m + 1; l <= '9'; l++)
+			{
+				putchar(n);
+				putchar(m);
+				putchar(l);
+				if (n != '7' || m != '8' || l != '9')
 				{
-					putchar(n);
-					putchar(m);
-					putchar(l);
-					if (n != '7' || m != '8' || l != '9')
-						{
-							putchar(',');
-							putchar(' ');
-						}
+					putchar(',');
+					putchar(' ');
 				}
+			}
 		}
 	}
 	putchar('\n');
