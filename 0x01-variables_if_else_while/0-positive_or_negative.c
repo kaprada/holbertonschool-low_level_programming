@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 /**
- * main - Generate a randon number and determinate if 
+ * main - Generate a randon number and determinate if
  * is positive, negative or 0.
  * Return: 0
 */
