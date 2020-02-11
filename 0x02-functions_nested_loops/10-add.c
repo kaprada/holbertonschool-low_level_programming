@@ -8,7 +8,7 @@
 */
 
 int add(int i, int j)
-{https://github.com/kaprada/holbertonschool-low_level_programming
+{
 	int add;
 
 	res = a + b;
