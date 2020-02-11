@@ -3,7 +3,7 @@
 
 /**
  * print_sign - check if a char is pos or neg
- * @c: letter to check
+ * @n: letter to check
  *
  * Return: 0 if 0, 1 if is poz or -1 if less
  *
