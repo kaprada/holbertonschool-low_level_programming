@@ -2,10 +2,10 @@
 #include <stdlib.h>
 
 /**
- * main - print alphabet using _putchar
+ * print_alphabet - print alphabet using _putchar
  *
  *
- * Return: success 0.
+ * Return: void
  *
  */
 
