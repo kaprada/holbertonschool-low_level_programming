@@ -2,12 +2,12 @@
 
 /**
 *add - add two integers and returns the result.
-*@a: int value
-*@b: int value
+*@i: int value
+*@j: int value
 *Return: Results of add tow integers
 */
 
-int add(int a, int b)
+int add(int i, int j)
 {https://github.com/kaprada/holbertonschool-low_level_programming
 	int add;
 
