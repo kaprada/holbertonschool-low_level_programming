@@ -17,7 +17,7 @@ void print_number(int n)
 		if ((n < 1000000000) && (n % 10 != 0))
 		{
 			n++,
-			min_flag = 1;
+			min_dig = 1;
 		}
 		n = -n;
 	}
